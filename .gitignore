@@ -1,0 +1,13 @@
+# Build output
+/silo
+/silo.exe
+/dist/
+
+# Multipart upload resume state
+*.silo-upload.json
+
+# Editor / OS cruft
+.DS_Store
+.idea/
+.vscode/
+*.swp
